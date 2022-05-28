@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Homepages on My New Hugo Site</title>
+    <link>https://TN-Fung.github.io/homepage/</link>
+    <description>Recent content in Homepages on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 May 2022 23:42:02 +0800</lastBuildDate><atom:link href="https://TN-Fung.github.io/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://TN-Fung.github.io/homepage/blog/</link>
+      <pubDate>Sat, 28 May 2022 23:42:02 +0800</pubDate>
+      
+      <guid>https://TN-Fung.github.io/homepage/blog/</guid>
+      <description>#center Hello World</description>
+    </item>
+    
+  </channel>
+</rss>
